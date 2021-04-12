@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=19f0b4aa_002D073d_002D4300_002Db190_002D7a938f5d7611/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestList" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::FA97CE50-26BD-44F6-B572-C6BC5C0CCD28::net5.0::Laba_1.TestList&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=304aaf2a_002D091e_002D43b6_002D98e9_002Ddb0fd1726c81/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="test_get" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::FA97CE50-26BD-44F6-B572-C6BC5C0CCD28::net5.0::Laba_1.TestList.test_get&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=48af2d60_002D541a_002D44e2_002D981e_002D16a1c29a498b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from UnitTest1.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="D:\projects\RiderProjects\Laba_1\TestProject1" Presentation="&amp;lt;TestProject1&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ac78516a_002D1f77_002D44d1_002D937c_002De3b17f6dcc63/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="test_get #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::FA97CE50-26BD-44F6-B572-C6BC5C0CCD28::net5.0::Laba_1.TestList.test_get&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
